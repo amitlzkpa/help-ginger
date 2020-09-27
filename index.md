@@ -1,4 +1,3 @@
----
 
 Dear Reader
 
@@ -8,6 +7,5 @@ I am a resident at <update> . On <update> my landlord tried to force into my apa
 
 I am one of the thousands in this precarious situation right now and would be glad to receive any support in my moment of need.  
 
----
 
 [Plan](/plan)  
