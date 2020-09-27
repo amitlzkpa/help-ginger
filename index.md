@@ -10,4 +10,4 @@ I am one of the thousands in this precarious situation right now and would be gl
 
 ---
 
-[Plan](/plan.md)
+[Plan](./plan.md)
