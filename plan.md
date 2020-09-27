@@ -2,7 +2,7 @@
 
 ---
 
-<div id="paypal-button-container"></div>
+<div id="paypal-button-container" width="100%"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
 <script>
   paypal.Buttons({
